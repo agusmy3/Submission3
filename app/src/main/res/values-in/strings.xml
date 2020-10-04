@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission3</string>
+
+    <string name="search_activity">Aplikasi GitHub</string>
+    <string name="detail_activity">Rincian Pengguna</string>
+    <string name="favorite_activity">Pengguna Disukai</string>
+    <string name="search">Pencarian</string>
+    <string name="menu_language">Bahasa</string>
+    <string name="menu_theme">Tema</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="search_hint">Kata Kunci</string>
+    <string name="repository">Repositori</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="selected">Pengguna Terpilih</string>
+    <string name="selected_error">Data Pengguna Tidak Ditemukan, Kesalahan : </string>
+    <string name="found">Data Ditemukan</string>
+    <string name="not_found">Data Tidak Ditemukan</string>
+    <string name="saveToFav_succ">Berhasil Ditambahkan Ke List Favorite</string>
+    <string name="saveToFav_fail">Gagal Ditambahkan Ke List Favorite</string>
+    <string name="deleteFromFav_succ">Berhasil Dihapus Dari List Favorite</string>
+    <string name="deleteFromFav_fail">Gagal Dihapus Dari List Favorite</string>
+    <string name="warning">Peringatan!!!</string>
+    <string name="notConect">Tidak Ada Koneksi Internet…</string>
+    <string name="close">Tutup</string>
+
+    <string name="is_remind">Pengingat</string>
+    <string name="key_remind">reminder</string>
+    <string name="set_remind">Pengingat Diatur</string>
+    <string name="title_remind">Pengingat</string>
+    <string name="message_remind">Ayo Temukan Pengguna Github Terpopuler</string>
+    <string name="time_remind">06:30</string>
+
+    <string name="pref_label_lang_in">Indonesia</string>
+    <string name="pref_value_lang_in">in</string>
+    <string name="pref_label_lang_en">English</string>
+    <string name="pref_value_lang_en">en</string>
+
+    <string name="title_lang">Bahasa</string>
+    <string name="key_lang">lang</string>
+    <string name="summary_remind">Aktif setiap 09:00 AM</string>
+    <string name="main_text">Masukkan Kata Kunci atau Username di Kolom Pencarian</string>
+</resources>

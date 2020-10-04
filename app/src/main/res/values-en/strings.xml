@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission3</string>
+
+    <string name="search_activity">GitHub App</string>
+    <string name="detail_activity">Detail User</string>
+    <string name="favorite_activity">Favorite User</string>
+    <string name="search">Search</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_theme">Theme</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="search_hint">Keyword</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="selected">User Selected</string>
+    <string name="selected_error">User Data Not Found, Error : </string>
+    <string name="found">Data Found</string>
+    <string name="not_found">Data Not Found</string>
+    <string name="saveToFav_succ">Successfully Added To Favorite List</string>
+    <string name="saveToFav_fail">Failed To Be Added To Favorite List</string>
+    <string name="deleteFromFav_succ">Successfully Removed From Favorite List</string>
+    <string name="deleteFromFav_fail">Failed To Be Removed From Favorite List</string>
+    <string name="warning">Warning!!!</string>
+    <string name="notConect">There Is No Internet Connection…</string>
+    <string name="close">Close</string>
+
+    <string name="is_remind">Reminder</string>
+    <string name="key_remind">reminder</string>
+    <string name="set_remind">Reminder Set Up</string>
+    <string name="title_remind">Reminder</string>
+    <string name="message_remind">Let\'s Find Popular Github Users</string>
+    <string name="time_remind">06:30</string>
+
+    <string name="pref_label_lang_in">Indonesia</string>
+    <string name="pref_value_lang_in">in</string>
+    <string name="pref_label_lang_en">English</string>
+    <string name="pref_value_lang_en">en</string>
+
+    <string name="title_lang">Language</string>
+    <string name="key_lang">lang</string>
+    <string name="summary_remind">Active every 09:00 AM</string>
+    <string name="main_text">Enter Keyword or Username in Coloumn Searching</string>
+</resources>
